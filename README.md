@@ -1,2 +1,2 @@
 # AI-Assignments
-#### Artificial intelligence - Fall 2023
+#### Artificial intelligence - Spring 2023
